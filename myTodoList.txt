@@ -1,0 +1,2 @@
+1. create character top view
+2. craete animation from right to left
